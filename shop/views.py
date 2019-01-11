@@ -21,7 +21,7 @@ def getHaoQuan_list_items(request):
     req.adzone_id = 80892900374
     req.platform =2
     # req.cat = "16，18"
-    req.page_size = 100
+    req.page_size = 60
     req.q = "羽绒服"
     req.page_no = 1
     try:
