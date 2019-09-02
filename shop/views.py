@@ -9,8 +9,8 @@ import http.client
 # 这里填写你申请到的APPkey
 
 # 配置阿里SDK
-appkey = '25541421'
-secret = '04ede9704b4da9fd2d13eecd3b37e60d'
+appkey = '保密'
+secret = '保密'
 url = 'gw.api.taobao.com'
 port = 80
 # 好券清单API（导购）只能搜索有券,搜索类目商品，自动高佣金
